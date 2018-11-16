@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to Fran's Pages
+
+This is Fran, who is a Product Engineering in the Semiconductor Inductry. 
+Fran loves music, art etc. 
+
+
 
 You can use the [editor on GitHub](https://github.com/fran2fran/about/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
